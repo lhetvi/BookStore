@@ -16,9 +16,9 @@ The purpose is to provide an efficient and user-friendly platform for effective 
 These instructions will help you get a copy of the project up and running on your local machine.
 
 ### Prerequisites
-Visual Studio (2019 or later)
-.NET Core SDK (3.1 or later)
-MS SQL Server (Express or higher)
+- Visual Studio (2019 or later)
+- .NET Core SDK (3.1 or later)
+- MS SQL Server (Express or higher)
 
 ### Installation
 1. Clone the repository to your local machine using Git:
