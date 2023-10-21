@@ -24,13 +24,13 @@ These instructions will help you get a copy of the project up and running on you
 1. Clone the repository to your local machine using Git:
 ```bash
 git clone https://github.com/lhetvi/BookStore.git
-
+```
 2. Open the project in Visual Studio.
 3. Configure the connection string for the database in the appsettings.json file:
 ```bash
 "ConnectionStrings": {
     "DefaultConnection": "Server=YOUR_SERVER;Database=BookStore;User Id=YOUR_USERNAME;Password=YOUR_PASSWORD;"
 }
-
+```
 4. Open the Package Manager Console in Visual Studio and run the commands to apply migrations and create the database.
 5. Build and run the project in Visual Studio.
